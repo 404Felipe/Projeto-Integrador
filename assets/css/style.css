@@ -11,7 +11,7 @@
   /*Variáveis*/
   :root {
     --bg-color: #131730;
-    --bg-color2: #2e17b1;
+    --bg-color2: #F23838;
   
     --color-white: #ffffff;
     --color-grey: #ffffff;
@@ -106,7 +106,7 @@
     color: var(--color-grey);
   }
   
-  /*Cards sociais*/
+  /*Cards*/
   section div {
     display: flex;
     justify-items: center;
